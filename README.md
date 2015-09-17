@@ -9,7 +9,7 @@ shutup.css is a custom stylesheet that can be applied to your browser to hide co
 
 ## Install
 
-1. Open the [bookmarklet file](https://github.com/vallieres/shutup-css-bookmarklet/blob/master/shutup-css-bookmarklet.min.js) and copy the code
+1. Open the [bookmarklet file](https://raw.githubusercontent.com/vallieres/shutup-css-bookmarklet/master/shutup-css-bookmarklet.min.js) and copy the code
 2. Paste the code in a bookmark you created in your bookmark toolbar
 3. Click it when you want to make comments disapear
 
